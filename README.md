@@ -1,2 +1,7 @@
 # hiya-world
-My first rep here :). It will be used to store ideas and resources.
+
+Hiya the world!
+
+My first rep here :)
+
+It will be used to store ideas and (share) resources.
